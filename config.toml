@@ -10,7 +10,7 @@ disableKinds = ["taxonomy", "term"]
 
 [author]
   name = "Sylwia Gumienna"
-  headline = "Affiliate Marketing Made Simple"
+  headline = "Affiliate Marketing Made Simple - Get Paid With Sylwia"
   image = "img/profile.jpg"  # path relative to static directory
 
   links = [
