@@ -14,8 +14,7 @@ disableKinds = ["taxonomy", "term"]
   image = "img/profile.jpg"  # path relative to static directory
 
   links = [
-    { email = { href = "mailto:example-email-here@gmail.com", text = "Email" } },
-    { link = { href = "https://timikels.com", text = "Website & Blog" } },
+    # { link = { href = "https://timikels.com", text = "Website & Blog" } },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { codepen = "https://codepen.io/username" },
@@ -28,7 +27,7 @@ disableKinds = ["taxonomy", "term"]
     # { github = "https://github.com/username" },
     # { gitlab = "https://gitlab.com/username" },
     # { google = "https://www.google.com/" },
-    { instagram = { href = "https://instagram.com/putyourusernamehereinsta", text = "Instagram" } },
+    { instagram = { href = "https://instagram.com/gumiennaklara", text = "Instagram" } },
     # { keybase = "https://keybase.io/username" },
     # { kickstarter = "https://www.kickstarter.com/profile/username" },
     # { lastfm = "https://lastfm.com/user/username" },
@@ -49,7 +48,9 @@ disableKinds = ["taxonomy", "term"]
     # { twitch = "https://twitch.tv/username" },
     # { twitter = "https://twitter.com/username" },
     # { whatsapp = "https://wa.me/phone-number" },
-    { youtube = { href = "https://www.youtube.com/c/OnlineBusinessDude", text = "YouTube" } },
+    { youtube = { href = "https://www.youtube.com/c/SylwiasMarketing", text = "YouTube" } },
+    { email = { href = "mailto:gumiennaklara@hotmail.co.uk", text = "Email" } },
+
   ]
 
 [module]
