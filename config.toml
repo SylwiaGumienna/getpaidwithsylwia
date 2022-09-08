@@ -1,16 +1,16 @@
-baseURL = "https://linktree-alternative.netlify.app/"
+baseURL = "https://getpaidwithsylwia.com"
 languageCode = "en"
 defaultContentLanguage = "en"
 
-title = "Example Name | Links"
+title = "Sylwia Gumienna | Links"
 copyright = ""
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [author]
-  name = "Example Name"
-  headline = "This is my cool headline"
+  name = "Sylwia Gumienna"
+  headline = "Affiliate Marketing Made Simple"
   image = "img/profile.jpg"  # path relative to static directory
 
   links = [
