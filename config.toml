@@ -15,7 +15,7 @@ disableKinds = ["taxonomy", "term"]
 
   links = [ 
     { link = { href = "https://docs.google.com/document/d/1X-aKj3trqLIxQW718jD4LlyiwGmhoow_1hgKzG5DjTU/edit", text = "3 Professional Courses ($0.00)" } },
-    { link = { href = "https://tubematic.net/", text = "How To Make Money With YouTube Ads" } },
+    { link = { href = "https://tubematic.net/", text = "How To Make Money With YouTube Ads - Check Out TubeMatic Spy Tool" } },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { codepen = "https://codepen.io/username" },
