@@ -14,7 +14,7 @@ disableKinds = ["taxonomy", "term"]
   image = "img/profile.jpg"  # path relative to static directory
 
   links = [ 
-    { link = { href = "https://getpaidwithsylwia.com/free" } },
+    { link = { href = "https://getpaidwithsylwia.com/free", text = "$0.00 3 Free Courses" } },
     { link = { href = "https://tubematic.net/", text = "How To Make Money With YouTube Ads - Check Out TubeMatic Spy Tool" } },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
