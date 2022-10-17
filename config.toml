@@ -11,7 +11,7 @@ disableKinds = ["taxonomy", "term"]
 [author]
   name = "Sylwia Gumienna"
   headline = "Affiliate Marketing Made Simple - Get Paid With Sylwia"
-  image = "https://imgur.com/a/wWoXCpE"  # path relative to static directory
+  image = "https://scontent-lcy1-2.xx.fbcdn.net/v/t1.15752-9/311910311_2223203054505774_2540831016569535630_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=KqgglnZa8PgAX8nrA6p&_nc_ht=scontent-lcy1-2.xx&oh=03_AdRKGW2iBdOI44rGVjWeVbE33l2iM130UqaWNqLcEZ8vLQ&oe=63717441"  # path relative to static directory
 
   links = [ 
     { link = { href = "https://getpaidwithsylwia.com/free", text = "Today $0.00 - Get Instant Access To 3 Professional Courses For Free" } },
