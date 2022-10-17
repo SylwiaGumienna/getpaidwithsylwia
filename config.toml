@@ -11,7 +11,7 @@ disableKinds = ["taxonomy", "term"]
 [author]
   name = "Sylwia Gumienna"
   headline = "Affiliate Marketing Made Simple - Get Paid With Sylwia"
-  image = "profile_pic_2.jpg"  # path relative to static directory
+  image = "/img/profile_pic_2.jpg"  # path relative to static directory
 
   links = [ 
     { link = { href = "https://getpaidwithsylwia.com/free", text = "Today $0.00 - Get Instant Access To 3 Professional Courses For Free" } },
