@@ -15,7 +15,7 @@ disableKinds = ["taxonomy", "term"]
 
   links = [ 
     { link = { href = "https://getpaidwithsylwia.com/free", text = "Today $0.00 - Get Instant Access To 3 Professional Courses For Free" } },
-    { link = { href = "https://warriorplus.com/o2/a/dt6znc/0", text = "How To Make Money With YouTube Ads - Check Out TubeMatic Spy Tool" } },
+    { link = { href = "https://escapeplanis.com/lp/escapeplanis1iftf/3/BKGJLMAD9Q", text = "Grow Your Email List With This 100% Free Training" } },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { codepen = "https://codepen.io/username" },
@@ -32,9 +32,9 @@ disableKinds = ["taxonomy", "term"]
     # { keybase = "https://keybase.io/username" },
     # { kickstarter = "https://www.kickstarter.com/profile/username" },
     # { lastfm = "https://lastfm.com/user/username" },
-    # { linkedin = "https://linkedin.com/in/username" },
+    { linkedin = { href = "https://www.linkedin.com/in/sylwia-gumienna-a84708326/?trk=opento_sprofile_details", text = "LinkedIn" } },
     # { mastodon = "https://mastodon.instance/@username" },
-    # { medium = "https://medium.com/username" },
+    { medium = { href = "https://medium.com/@sylwiagumienna/about", text = "Medium" } },
     # { microsoft = "https://www.microsoft.com/" },
     # { patreon = "https://www.patreon.com/username" },
     # { pinterest = "https://pinterest.com/username" },
