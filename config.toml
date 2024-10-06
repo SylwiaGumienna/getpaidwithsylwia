@@ -16,7 +16,7 @@ disableKinds = ["taxonomy", "term"]
   links = [ 
     { link = { href = "https://getpaidwithsylwia.com/free", text = "Today $0.00 - Get Instant Access To 3 Professional Courses For Free" } },
     { link = { href = "https://escapeplanis.com/lp/escapeplanis1iftf/3/BKGJLMAD9Q", text = "Grow Your Email List With This 100% Free Training" } },
-    { link = { href = "https://sylwia-links.netlify.app/", text = "Check Out My Epic Reviews" } },
+    { link = { href = "https://sylwia-reviews.netlify.app", text = "Check Out My Epic Reviews" } },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { codepen = "https://codepen.io/username" },
